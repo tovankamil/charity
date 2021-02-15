@@ -7,11 +7,17 @@
 	},5000)
 </script>
 
-<h1>{title}</h1>
-<CharityList/>
+<div>
+	<h1>{title}</h1>
+	<CharityList/>
+</div>
+
 <style>
 	h1{
 		font-size: 3rem;
 		color:red
+	}
+	div{
+		border:red 1px solid
 	}
 </style>
