@@ -1,5 +1,8 @@
 <script>
 	let title="Charity";
+	setTimeout(function(){
+		title='indonesia';
+	},5000)
 </script>
 
 <h1>{title}</h1>
