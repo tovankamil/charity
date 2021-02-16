@@ -9,7 +9,7 @@
 
 </svelte:head>
 <main class="flex-shrink-0">
-	<div class="container">
+	<div class="container ">
 	<h1 class="text-center pt-5 second-color primary-font">Hai sahabat  <span class="dt primary-color bold-700">LIBREN G</span> </h1>
 	<p class="text-center pt-5 primary-color ">Kali ini  ada beberapa hal penting yang harus diperhatikan dalam kehidupan kita !</p>
 	<p class="text-center pt-4  primary-font">Apakah anda mengalami <span  class="second-color bold-700 ">depresi?</span> </p>
@@ -46,7 +46,29 @@ Sejumlah penelitian kini menemukan bahwa orang
 		DENGAN SEMUA ITU </h2>
 		<h1 class="primary-font text-center pt-4 primary-color bold-900">LIBREN G</h1>
 		<p class="primary-font text-center font-11"><span class="primary-color bold-900">Nutrisi herbal alami</span>  yang di ekstrak dari daun Pegagan yang diyakini mampu secara cepat melancarkan sirkulasi darah ke otak manusia.</p>
-		<img class="img-fluid" src="images/LibrenG.jpg" alt="">
+		<div class="d-flex justify-content-center">
+			<img class="img-fluid" src="images/LibrenG.jpg" alt="">
+		</div>
+		<p>
+			Pegagan mengandung triterpenoids (kandungan yang di dapat dalam pegagan), beberapa macam vitamin yaitu A, B, E, G, and K, dan mengandung nilai nutrisi yang membantu vitalitas tubuh kita dan berfungsi sedatif
+		</p>
+
+		<p>
+			Penelitian oleh K. Nalini di Kasturba Medical College: ‘Brain Function A’, 1992, menunjukkan bahwa Pegagan menunjang kesehatan memori. 
+		</p>
+
+		<p>
+			egagan mampu memberikan efek relaksasi dan menenangkan terhadap sistem syaraf yang mengalami terlalu aktif serta memberi stimulasi otak sehingga menaikkan kemampuan anak-anak ADD (Attention Deficit Disorder) lebih fokus, dan membantu orang yang sedang mengalami insomnia
+		</p>
+
+		<p>
+			Pegagan juga baik untuk kesehatan jantung dan mengurangi cairan di tubuh (edema), menaikkan daya imun tubuh, dan bisa juga dipakai sebagai anti viral. Menurut penelitian yang dilakukan di Medical Center University of Maryland, kandungannya yang disebut triterpenoids menurunkan kadar kecemasan dan menaikkan fungsi mental sehingga pegagan bisa mengobati orang dengan masalah kecemasan dan masalah mental lainnya
+		</p>
+
+		<p>
+			Di India, pegagan telah lama dipakai sebagai obat untuk banyak penyakit misalnya: lepra, psoriasis, sipilis, kanker, hemaroid, artritis, TBC, melancarkan sirkulasi darah ke otak, menguatkan memori, menurunkan demam, panas dalam, konstipasi, dll.
+		</p>
+
 	</div>
   </main>
 <footer class="footer mt-auto py-3 bg-light">
